@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { categories } from './data/content';
 import { motion } from 'framer-motion';
+import FeedbackButton from './components/FeedbackButton';
 
 export default function Home() {
   // Animation variants
@@ -371,6 +372,8 @@ export default function Home() {
           </div>
         </div>
       </footer>
+      
+      <FeedbackButton />
     </div>
   );
 }
