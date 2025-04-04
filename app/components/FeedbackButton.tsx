@@ -55,7 +55,7 @@ export default function FeedbackButton() {
                 We&apos;d love to hear your feedback!
               </p>
               <a 
-                href="https://forms.gle/4n64nu7LjQ2nGt699"
+                href="https://forms.gle/8NeysdqeTRG5XkNv8"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full bg-purple-600 hover:bg-purple-700 text-white font-medium py-3 px-4 rounded-lg text-center transition-colors"
